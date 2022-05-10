@@ -1,0 +1,25 @@
+body{
+    background-image: url("../img/fon.jpg");
+}
+#goldy{
+    position: absolute;
+    top: 60px;
+    font-size: xx-large;
+    color: rgb(255, 230, 0);
+}
+#cris{
+    position: absolute;
+    top: 20px;
+    font-size: xx-large;
+    color: rgb(0, 247, 255);
+}
+#stony{
+    position: absolute;
+    top: 100px;
+    font-size: xx-large;
+    color: rgb(41, 42, 44);
+}
+#t1{
+    position: absolute;
+    top: 200px;
+}
